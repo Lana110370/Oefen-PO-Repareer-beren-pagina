@@ -35,6 +35,7 @@ body{
 
 .main-nav a:hover{
 	top:5px;
+	transform: translateY(-6px);
 }
 
 .page-content{
